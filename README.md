@@ -4,11 +4,11 @@
 
 ---
 
-<p align="center"> It's a Quote app which provides some beautiful quotes.
+<p align="center"> It's a Quote app providing beautiful quotes.
     <br> 
 </p>
 
 ## 📝 Table of Contents
-+ How it works - It Have a very simple and user friendly interference, users only needs to check on the app.
++ How it works - It has a very simple and user-friendly interface; users only need to check on the app.
 + Built Using - Dart
 
